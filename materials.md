@@ -1,4 +1,4 @@
-# 1 pràcticas. Anàlisis dels materials
+# Pràctica 1, Anàlisis dels materials
 
 ## Parejas
 

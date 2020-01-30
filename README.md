@@ -1,15 +1,14 @@
-# Instalacio-sonora-Ecoembes
-[Instal·lació sonora Ecoembes](https://github.com/arquesm/TdPiED/blob/master/Instalacio_sonora.md)
+# [Instalación sonora Ecoembes](https://github.com/arquesm/TdPiED/blob/master/Instalacio_sonora.md)
 
-## Guía de treball
+## Guía de trabajo
 
-### 1 Organització i presentació del projecte
+### 1 Organización i presentación del proyecto
 
-### 2 Anàlisis del material
-[Pràctica 1, Anàlisis dels materials](materiales.md)
+### 2 Análisis de los materiales
+[Práctica 1, Análisis de los materiales](materiales.md)
 
 ### 3 Taller
 
 ### 4 Taller
 
-### 5 Muntatge i documentació
+### 5 Montaje y documentación

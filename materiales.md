@@ -21,17 +21,17 @@ Como afecta el viento a los distintos materiales.
 
 GRUPO 3
 
-### TÍTULO
+#### TÍTULO
 Wind Touch: El título tiene una relación a que según la dirección y velocidad del viento tiene diferentes estilos.
 
-### ESPACIO
+#### ESPACIO
 Exterior, naturaleza (campo y montaña)
 
-### MATERIALES
+#### MATERIALES
 - Naturales: Viento, Madera, Vegetación, Plantas, Conchas, Piedras, Piñas.
 - Artificial: Papel aluminio, Motores, Ladrillos, Placas de metal, Plástico, Bateria, Cinta, Esponja, Regadera, Plato.
 
-### CONCEPTO
+#### CONCEPTO
 Impacto del hombre en la naturaleza.
 
 ## Clase

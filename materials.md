@@ -1,6 +1,6 @@
 # 1 pràcticas. Anàlisis dels materials
 
-## Parelles
+## Parejas
 
 Juan y Carla (Wind Touch)
 
@@ -17,11 +17,11 @@ La repercusión del viento en la naturaleza y los distintos materiales. (Trabajo
 #### Wind Touch
 Como afecta el viento a los distintos materiales.
 
-## Grup
+## Grupo
 
 GRUPO 3
 
-### TITULO
+### TÍTULO
 Wind Touch: El título tiene una relación a que según la dirección y velocidad del viento tiene diferentes estilos.
 
 ### ESPACIO
